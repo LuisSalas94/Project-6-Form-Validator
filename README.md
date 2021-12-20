@@ -34,7 +34,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- John Smilga Udemy Course
+- Brad Traversy
 
 
 ## 📝 License
