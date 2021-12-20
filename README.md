@@ -3,8 +3,6 @@
 ![Screenshot_6](https://user-images.githubusercontent.com/57297709/146776961-16130653-fcaf-4f2b-be6e-fc7d3c86ad5e.jpg)
 
 
-
-
 Additional description about the project and its features.
 
 ## Built With
@@ -15,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://distracted-hoover-8b5623.netlify.app/)
+[Live Demo Link](https://priceless-kirch-342f23.netlify.app/)
 
 ## Author
 
